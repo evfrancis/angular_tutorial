@@ -1,5 +1,9 @@
 # Logs
 *.log
 
+# Generated Javascript
+*.js
+*.js.map
+
 # Directories
 node_modules
